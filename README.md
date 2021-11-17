@@ -8,7 +8,7 @@ Every question markdown must include the following:
 - Exaple of the question include the explanation of each testcase.
 - Instruction of the question if required.
 - Constriants of the question.
-
+- Topic and difficulty of the question must be specified aswell.
 ## Exact format for every example:
 
 ![](https://cdn.discordapp.com/attachments/882247424809242705/910500299804905502/unknown.png)
